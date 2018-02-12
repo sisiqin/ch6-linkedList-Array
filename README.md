@@ -10,7 +10,7 @@
 
 - delete & add in a sorted list 
 
-## linked list上的经典题： 
+## linked list和array的经典题： 
 
 - merge k sorted list  <- k路归并是一道特别重要的题 至少要会两种解法
 
