@@ -22,7 +22,7 @@
 
 - Sort List
 
-- Median of Two Sorted Arrays
+- Median of Two Sorted Arrays  ---> 用o(1)的时间，把一个规模为n的问题，变成为规模为n/2的问题，才能使最终时间复杂度在log
 
 - Maximum Subarray
 
